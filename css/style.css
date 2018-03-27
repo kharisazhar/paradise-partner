@@ -182,6 +182,10 @@ body {
 	padding: 24px 16px;
 }
 
+.logo img{
+	width: 180px;
+}
+
 .logo a {
 	text-decoration: none;
 	color: #fff;
