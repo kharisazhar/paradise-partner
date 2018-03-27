@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1624 640 293 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7f7f7;
+        stroke: #eceff1;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #67d272;
+      }
+
+      .cls-4 {
+        fill: #becbd3;
+        font-size: 11px;
+        font-family: Lato-Regular, Lato;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-5 {
+        fill: #3e566e;
+        font-size: 13px;
+        font-family: Lato-Bold, Lato;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Mask" class="cls-1" width="293" height="60" rx="3"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_5" data-name="Rectangle 5" class="cls-2" transform="translate(-1624 640)">
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M0,0H9L4.5,6Z" transform="translate(264 41)"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(20 13)">
+      <g id="Group_14" data-name="Group 14">
+        <text id="Jawa_tengah_Jawa_ba" data-name="Jawa tengah, Jawa ba" class="cls-4" transform="translate(0 32)"><tspan x="0" y="0">Jawa tengah, Jawa barat, Papua</tspan></text>
+        <text id="Letak" class="cls-5" transform="translate(0 14)"><tspan x="0" y="0">Letak</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

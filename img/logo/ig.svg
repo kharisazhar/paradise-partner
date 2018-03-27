@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1544 3551 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="25" height="25" transform="translate(533 3511)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" class="cls-2" transform="translate(-2077 40)">
+    <g id="_002-instagram" data-name="002-instagram" transform="translate(533 3511)">
+      <g id="Group_21" data-name="Group 21" class="cls-3">
+        <path id="Path_9" data-name="Path 9" class="cls-1" d="M16.226,6.651H8.774A2.159,2.159,0,0,0,6.618,8.808v7.451a2.16,2.16,0,0,0,2.157,2.157h7.451a2.16,2.16,0,0,0,2.157-2.157V8.808A2.159,2.159,0,0,0,16.226,6.651ZM12.5,16.407a3.873,3.873,0,1,1,3.873-3.873A3.877,3.877,0,0,1,12.5,16.407Zm4-6.945a.916.916,0,1,1,.916-.916A.917.917,0,0,1,16.5,9.462Z"/>
+        <path id="Path_10" data-name="Path 10" class="cls-1" d="M12.5,10.3a2.236,2.236,0,1,0,2.236,2.236A2.239,2.239,0,0,0,12.5,10.3Z"/>
+        <path id="Path_11" data-name="Path 11" class="cls-1" d="M12.5,0A12.5,12.5,0,1,0,25,12.5,12.5,12.5,0,0,0,12.5,0Zm7.519,16.259a3.8,3.8,0,0,1-3.794,3.794H8.774a3.8,3.8,0,0,1-3.794-3.794V8.808A3.8,3.8,0,0,1,8.774,5.015h7.451a3.8,3.8,0,0,1,3.794,3.794Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

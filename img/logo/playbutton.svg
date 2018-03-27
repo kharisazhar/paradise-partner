@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1887 955 69 69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: #35445c;
+      }
+    </style>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-2277 -107)">
+    <circle id="Oval" class="cls-1" cx="34.5" cy="34.5" r="34.5" transform="translate(390 1062)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M0,0V13L10.5,6.5Z" transform="translate(419 1090)"/>
+  </g>
+</svg>

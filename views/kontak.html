@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>	</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<script src="../js/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+	<nav id="navbar" class="container sticky">
+		<div class="logo">
+			<a href="" title="">Paradise Partner<img src="" alt=""></a>
+		</div>
+		<div class="navbar-inverse">
+			<a class="active" href="kontak.html">Kontak</a>
+			<a href="galeri.html">Galeri</a>
+			<a href="temukan.html">Temukan</a>
+			<a href="index.html">Beranda</a>
+		</div>
+	</nav>
+
+	<section id="affix">
+		<div class="container">
+			
+		</div>
+		
+	</section>
+
+	<section class="padding-content clear">
+		<div class="container">
+			
+			
+		</div>
+	</section>
+
+	<footer class="jetdarkblue">
+		<div class="container header-footer">
+			<h1 class="col-50 pull-left h1-style-bold white">Dapatkan info terkini dari kami</h1>	
+			<div class="form pull-right">
+				<form action="">
+					<input type="email" id="fsubs" placeholder="Masukan Email Anda">
+					<input type="submit" value="Subscribe" class="primary">		
+				</form>				
+			</div>
+		</div>
+
+		<div class="container padding-footer clear white">
+			<div class="col-21 box-footer-content">
+				<h1 class="h1-style-bold white">Paradise Partner</h1>
+				<p class="text-small-footer">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore quo debitis, ab voluptate dicta sequi nam autem rerum. Blanditiis.
+				</p>
+				<p class="copyright">
+					Made With <span><img class="icon-love" src="../img/logo/c-love.svg" alt=""></span>bySilent Partner
+				</p>					
+			</div>
+			<div class="box-footer-content content-footer">
+				<h2 class="h2-style-bold">Menu</h2>
+				<p class="small">
+					<ul class="menu">
+						<li><a href="">Beranda</a></li>
+						<li><a href="">Temukan</a></li>
+						<li><a href="">Galeri</a></li>
+						<li><a href="">Kontak</a></li>
+					</ul>
+				</p>							
+			</div>
+			<div class="box-footer-content content-footer">
+				<h2 class="h2-style-bold">Follow Us</h2>
+				<p class="small">
+					<ul class="menu">
+						<li><img class="icon-small-footer" src="../img/logo/fb.svg" alt=""><a href="">
+						facebook.com/paradisepartner</a></li>
+						<li><img class="icon-small-footer" src="../img/logo/twit.svg" alt=""><a href="">
+							@paradise_partner</a></li>
+						<li><img class="icon-small-footer" src="../img/logo/ig.svg" alt=""><a href="">
+							@paradisepartnerofficial</a></li>
+						<li><img class="icon-small-footer" src="../img/logo/drib.svg" alt=""><a href="">
+							dribbble.com/rizalr</a></li>
+					</ul>
+				</p>							
+			</div>
+			<div class="box-footer-content content-footer">
+				<h2 class="h2-style-bold">Contact Us</h2>
+				<p class="small">
+					<ul class="menu">
+						<li><a href="">(0281) 632138</a></li>
+						<li><a href="">paradisepartner@gmail.com</a></li>
+					</ul>
+				</p>							
+			</div>
+		</div>			
+	</footer>
+
+
+
+	<script src="../js/slider.js" type="text/javascript"></script>
+	<!-- <script src="../js/dropdown.js" type="text/javascript"></script> -->
+	<script>
+		$(document).ready(function() {
+			$(".dropbtn").click(function(event) {
+				$(".dropdown-content").toggleClass('show');
+			});
+		});
+	</script>
+	<script>
+		$(document).ready(function() {
+			$(".dropbtn2").click(function(event) {
+				$(".dropdown-content2").toggleClass('show');
+			});
+		});
+	</script>
+
+	<script>
+		$(document).ready(function(){       
+		   var scroll_start = 0;
+		   var startchange = $('#affix');
+		   var offset = startchange.offset();
+		   $(document).scroll(function() { 
+		      scroll_start = $(this).scrollTop();
+		      if(scroll_start > offset.top) {
+		          $('#navbar').css('background-color', '#fff').css('-webkit-box-shadow', '0 6px 9px -5px #bcc0c6');
+		       } else {
+		          $('#navbar').css('background-color', 'transparent').css('border-bottom', 'none').css('-webkit-box-shadow', 'none');
+		       }
+		   });
+		});
+	</script>
+</body>
+</html>

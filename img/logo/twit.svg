@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1544 3501 25 25">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        fill: #081a26;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="25" height="25" transform="translate(533 3511)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-2" transform="translate(-2077 -10)">
+    <g id="_003-twitter" data-name="003-twitter" transform="translate(533 3511)">
+      <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-3" cx="12.5" cy="12.5" r="12.5" transform="translate(0 0)"/>
+      <g id="Group_17" data-name="Group 17">
+        <path id="Path_8" data-name="Path 8" class="cls-4" d="M20.157,8.983a5.961,5.961,0,0,1-1.716.47A3,3,0,0,0,19.755,7.8a5.981,5.981,0,0,1-1.9.725,2.99,2.99,0,0,0-5.092,2.726A8.482,8.482,0,0,1,6.607,8.129a2.991,2.991,0,0,0,.924,3.989,2.967,2.967,0,0,1-1.353-.374c0,.013,0,.025,0,.038a2.99,2.99,0,0,0,2.4,2.929,3,3,0,0,1-1.349.052,2.991,2.991,0,0,0,2.791,2.075,6.031,6.031,0,0,1-4.424,1.237,8.5,8.5,0,0,0,13.081-7.159c0-.129,0-.258-.009-.386a6.059,6.059,0,0,0,1.491-1.546Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

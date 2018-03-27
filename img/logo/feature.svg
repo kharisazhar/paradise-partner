@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="-1539 1095 15 15">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #53c55f;
+      }
+    </style>
+  </defs>
+  <g
+     transform="translate(-1539 1095)"
+     data-name="003-chevron-sign-to-right"
+     id="_003-chevron-sign-to-right">
+    <path
+       d="M7.5,15a7.372,7.372,0,0,1-3.765-1.006,7.5,7.5,0,0,1-2.729-2.73A7.372,7.372,0,0,1,0,7.5,7.364,7.364,0,0,1,1.006,3.735a7.5,7.5,0,0,1,2.73-2.729A7.359,7.359,0,0,1,7.5,0a7.364,7.364,0,0,1,3.765,1.006,7.5,7.5,0,0,1,2.729,2.729A7.372,7.372,0,0,1,15,7.5a7.372,7.372,0,0,1-1.006,3.765,7.5,7.5,0,0,1-2.729,2.73A7.374,7.374,0,0,1,7.5,15ZM6.563,2.441a.6.6,0,0,0-.44.186l-1,1a.611.611,0,0,0,0,.878l3,3-3,3a.614.614,0,0,0,0,.879l1,1a.614.614,0,0,0,.879,0l4.433-4.434a.613.613,0,0,0,0-.878L7,2.627A.6.6,0,0,0,6.563,2.441Z"
+       class="cls-1"
+       id="Shape" />
+  </g>
+</svg>
